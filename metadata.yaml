@@ -6,6 +6,9 @@ contributor:
     agent_name: Wickstedt, Ida
     gutenberg_agent_id: '46676'
     url: http://www.gutenberg.org/2009/agents/46676
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52099#Neljan-merkit
 gutenberg_issued: '2016-05-18'
 gutenberg_type: Text
 identifiers:
